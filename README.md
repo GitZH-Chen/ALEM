@@ -1,11 +1,9 @@
 [<img src="https://img.shields.io/badge/arXiv-2303.15477-b31b1b"></img>](https://arxiv.org/abs/2303.15477)
-[<img src="https://img.shields.io/badge/IEEE|pdf-lBp2cda7sp-8c1b13"></img>](https://ieeexplore.ieee.org/abstract/document/10681034)
+[<img src="https://img.shields.io/badge/IEEE|TIP-10681034-00629B"></img>](https://ieeexplore.ieee.org/abstract/document/10681034)
 
 # Adaptive Log-Euclidean Metrics for SPD Matrix Learning
 
-
 This is the official code for our TIP 2024 publication: *Adaptive Log-Euclidean Metrics for SPD Matrix Learning*.
-
 
 If you find this project helpful, please consider citing us as follows:
 
