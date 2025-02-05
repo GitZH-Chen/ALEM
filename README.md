@@ -1,5 +1,5 @@
 [<img src="https://img.shields.io/badge/arXiv-2303.15477-b31b1b"></img>](https://arxiv.org/abs/2303.15477)
-[![IEEE](https://img.shields.io/badge/IEEE-8c1b13)](https://ieeexplore.ieee.org/abstract/document/10681034)
+[<img src="https://img.shields.io/badge/IEEE|pdf-lBp2cda7sp-8c1b13"></img>](https://ieeexplore.ieee.org/abstract/document/10681034)
 
 # Adaptive Log-Euclidean Metrics for SPD Matrix Learning
 
@@ -10,9 +10,11 @@ This is the official code for our TIP 2024 publication: *Adaptive Log-Euclidean 
 If you find this project helpful, please consider citing us as follows:
 
 ```bib
-@inproceedings{chen2024rmlr,
-    title={{RMLR}: Extending Multinomial Logistic Regression into General Geometries},
-    author={Ziheng Chen and Yue Song and Rui Wang and Xiaojun Wu and Nicu Sebe},
-    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-    year={2024},
+@article{chen2024adaptive,
+  title={Adaptive Log-Euclidean metrics for SPD matrix learning},
+  author={Chen, Ziheng and Song, Yue and Xu, Tianyang and Huang, Zhiwu and Wu, Xiao-Jun and Sebe, Nicu},
+  journal={IEEE Transactions on Image Processing},
+  year={2024},
+  publisher={IEEE}
 }
+```
