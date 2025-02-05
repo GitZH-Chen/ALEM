@@ -12,8 +12,7 @@ If you find this project helpful, please consider citing us as follows:
   title={Adaptive Log-Euclidean metrics for SPD matrix learning},
   author={Chen, Ziheng and Song, Yue and Xu, Tianyang and Huang, Zhiwu and Wu, Xiao-Jun and Sebe, Nicu},
   journal={IEEE Transactions on Image Processing},
-  year={2024},
-  publisher={IEEE}
+  year={2024}
 }
 ```
 
