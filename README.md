@@ -16,3 +16,9 @@ If you find this project helpful, please consider citing us as follows:
   publisher={IEEE}
 }
 ```
+
+The ALEM-induced SPD MLR has been integrated into [RMLR](https://github.com/GitZH-Chen/RMLR).
+
+## To-Do List
+- LieBN under ALEM
+- RResNet under ALEM
