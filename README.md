@@ -17,7 +17,7 @@ If you find this project helpful, please consider citing us as follows:
 }
 ```
 
-The ALEM-induced SPD MLR has been integrated into [RMLR](https://github.com/GitZH-Chen/RMLR).
+The ALEM-induced SPD MLR has been integrated into our [RMLR](https://arxiv.org/abs/2409.19433) ([code]((https://github.com/GitZH-Chen/RMLR))).
 
 ## To-Do List
 - LieBN under ALEM
